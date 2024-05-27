@@ -1,0 +1,21 @@
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border: 1px solid gray ;
+}
+button{
+    /* background-color: cadetblue; */
+    border: 0px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: darkgrey;
+    color: aliceblue;
+}
+p{
+    text-align: center;
+    color: cadetblue;
+    
+}
